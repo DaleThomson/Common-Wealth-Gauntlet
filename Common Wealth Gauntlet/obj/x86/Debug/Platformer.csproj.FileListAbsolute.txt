@@ -1,0 +1,32 @@
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\Platformer.exe
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\Platformer.pdb
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\obj\x86\Debug\Platformer.exe
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\obj\x86\Debug\Platformer.pdb
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\Platformer.exe.config
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\Content\scotsman walk.xnb
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\Content\Cactus.xnb
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\bin\Windows\Debug\Content\BRICK_blue.xnb
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\Platformer.exe.config
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\obj\x86\Debug\Platformer.exe
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\obj\x86\Debug\Platformer.pdb

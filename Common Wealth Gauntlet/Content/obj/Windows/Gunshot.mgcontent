@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Gunshot.wav</SourceFile>
+  <SourceTime>2016-05-28T16:36:46.622745+01:00</SourceTime>
+  <DestFile>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/bin/Windows/Gunshot.xnb</DestFile>
+  <DestTime>2016-05-28T16:37:42.7122171+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

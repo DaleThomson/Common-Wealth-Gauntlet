@@ -1,0 +1,315 @@
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\Game.exe.config
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\obj\x86\Debug\BlankGame.csprojResolveAssemblyReference.cache
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\Game.exe
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\Game.pdb
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\obj\x86\Debug\Game.exe
+H:\Graded Unit 1\game template with menusystem (monogame)\Game5\obj\x86\Debug\Game.pdb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\Game.exe.config
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\obj\x86\Debug\Game.exe
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\obj\x86\Debug\Game.pdb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\obj\x86\Debug\BlankGame.csprojResolveAssemblyReference.cache
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\Game.exe
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\Game.pdb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\Content\desert_BG.xnb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\Content\apple.xnb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\Content\Cactus.xnb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera\Game5\bin\Windows\Debug\Content\crosshair.xnb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.exe.config
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\Game.exe
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\Game.pdb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\BlankGame.csprojResolveAssemblyReference.cache
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\apple.xnb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Cactus.xnb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\crosshair.xnb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\desert_BG.xnb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.exe
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.pdb
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Graded Unit 1\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.exe.config
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\Game.exe
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\Game.pdb
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\apple.xnb
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Cactus.xnb
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\crosshair.xnb
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\desert_BG.xnb
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.exe
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.pdb
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\BlankGame.csprojResolveAssemblyReference.cache
+C:\Users\500011755\Downloads\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\runnerspritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.exe.config
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\Game.exe
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\Game.pdb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.exe
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.pdb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\BlankGame.csprojResolveAssemblyReference.cache
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.exe.config
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\Game.exe
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\Game.pdb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.exe
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Game.pdb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\obj\x86\Debug\BlankGame.csprojResolveAssemblyReference.cache
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\apple.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\BackWave.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Barrier1.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\blackbackground.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Cactus.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\crosshair.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Cursor.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\desert_BG.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EnglishFemaleSwimmerSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EnglishSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EnglishSwimmerSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ExitButton(Blue).xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ExitButton.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\FemaleEnglishSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\FemaleIrishSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\FemaleScottishSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\FemaleWelshSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\GalleryButton(Blue).xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\GalleryButton.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Homescreen Example.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Hurdle.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IrishFemaleSwimmerSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IrishSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IrishSwimmerSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\OptionsButton(Blue).xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\OptionsButton.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PlayButton(Blue).xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PlayButton.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PoolScreen1.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PoolScreen2.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PoolScreen3.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\runnerspritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Running screen 1.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Running screen 2.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Running screen 3.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Running Screen 4.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScottishFemaleSwimmerSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScottishSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScottishSwimmerSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelshFemaleSwimmerSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelshSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelshSwimmerSpritesheet.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EngButtton(f).xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EngButtton.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IreButton(f).xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IreButton.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScoButton(f).xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScoButton.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelButton(f).xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelButton.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\CharacterSelectionScreen.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\CharacterSelection.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\P1.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\P2.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\P3.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\P4.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\England.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Ireland.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Scotland.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Wales.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\LastWave.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Back.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\BackWave2.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\barrier2.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\BronzeTrophy.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\GoldTrophy.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\SilverTrophy.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Crowd.wma
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Crowd.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Footsteps.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Gunshot.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Splashing.xnb
+E:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Clyde.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\apple.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Back.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\BackWave.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\BackWave2.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Barrier1.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\barrier2.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\blackbackground.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\BronzeTrophy.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Cactus.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\CharacterSelection.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\CharacterSelectionScreen.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Clyde.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\crosshair.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Crowd.wma
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Crowd.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Cursor.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\desert_BG.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EngButtton(f).xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EngButtton.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\England.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EnglishFemaleSwimmerSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EnglishSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\EnglishSwimmerSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ExitButton(Blue).xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ExitButton.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\FemaleEnglishSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\FemaleIrishSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\FemaleScottishSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\FemaleWelshSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Footsteps.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\GalleryButton(Blue).xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\GalleryButton.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\GoldTrophy.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Gunshot.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Homescreen Example.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Hurdle.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IreButton(f).xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IreButton.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Ireland.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IrishFemaleSwimmerSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IrishSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\IrishSwimmerSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\LastWave.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\OptionsButton(Blue).xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\OptionsButton.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\P1.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\P2.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\P3.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\P4.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PlayButton(Blue).xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PlayButton.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PoolScreen1.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PoolScreen2.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\PoolScreen3.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\runnerspritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Running screen 1.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Running screen 2.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Running screen 3.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Running Screen 4.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScoButton(f).xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScoButton.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Scotland.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScottishFemaleSwimmerSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScottishSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\ScottishSwimmerSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\SilverTrophy.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Splashing.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\Wales.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelButton(f).xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelButton.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelshFemaleSwimmerSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelshSpritesheet.xnb
+F:\game template with menusystem with camera and split screen\game template with menusystem (monogame) with camera and split screen\Game5\bin\Windows\Debug\Content\WelshSwimmerSpritesheet.xnb

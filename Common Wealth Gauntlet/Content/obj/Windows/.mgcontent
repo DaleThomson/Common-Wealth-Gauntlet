@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/desert_BG.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Cactus.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/apple.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/crosshair.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/runnerspritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Homescreen Example.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/blackbackground.jpg</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/EnglishSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/IrishSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/ScottishSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/WelshSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Running screen 3.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Running screen 1.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Running screen 2.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Running Screen 4.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/PlayButton.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/PlayButton(Blue).png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/ExitButton(Blue).png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/ExitButton.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/GalleryButton(Blue).png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/GalleryButton.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/OptionsButton(Blue).png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/OptionsButton.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Cursor.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/EnglishSwimmerSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/IrishSwimmerSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/ScottishSwimmerSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/WelshSwimmerSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/FemaleEnglishSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/FemaleIrishSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/FemaleScottishSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/FemaleWelshSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/EnglishFemaleSwimmerSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/IrishFemaleSwimmerSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/ScottishFemaleSwimmerSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/WelshFemaleSwimmerSpritesheet.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Hurdle.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/PoolScreen1.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/BackWave.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Barrier1.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/PoolScreen2.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/EngButtton(f).png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/EngButtton.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/IreButton(f).png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/IreButton.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/ScoButton(f).png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/ScoButton.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/WelButton(f).png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/WelButton.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/CharacterSelectionScreen.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/P1.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/P2.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/P4.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/CharacterSelection.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/England.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Ireland.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Scotland.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Wales.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/P3.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/LastWave.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/PoolScreen3.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Back.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/BackWave2.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/barrier2.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/BronzeTrophy.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/SilverTrophy.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/GoldTrophy.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Crowd.mp3</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Footsteps.wav</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Clyde.png</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Splashing.wav</File>
+    <File>F:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/Gunshot.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

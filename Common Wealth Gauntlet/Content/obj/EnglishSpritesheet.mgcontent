@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/EnglishSpritesheet.png</SourceFile>
+  <SourceTime>2016-05-05T09:26:31.7271619+01:00</SourceTime>
+  <DestFile>E:/game template with menusystem with camera and split screen/game template with menusystem (monogame) with camera and split screen/Game5/Content/bin/EnglishSpritesheet.xnb</DestFile>
+  <DestTime>2016-05-27T14:57:47.4988636+01:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

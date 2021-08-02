@@ -1,0 +1,108 @@
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\Game5.exe
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\Game5.pdb
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\obj\x86\Debug\Game5.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\obj\x86\Debug\Game5.exe
+c:\users\kyle\documents\visual studio 2015\Projects\Game5\Game5\obj\x86\Debug\Game5.pdb
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\Debug\Content\SpritesheetMoving.xnb
+G:\Game5\Game5\obj\x86\Debug\Game5.exe
+G:\Game5\Game5\obj\x86\Debug\Game5.pdb
+G:\Game5\Game5\bin\Windows\Debug\Content\SpritesheetMoving.xnb
+G:\Game5\Game5\bin\Windows\Debug\Game5.exe
+G:\Game5\Game5\bin\Windows\Debug\Game5.pdb
+G:\Game5\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+G:\Game5\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+G:\Game5\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+G:\Game5\Game5\obj\x86\Debug\Game5.csprojResolveAssemblyReference.cache
+F:\Game5\Game5\obj\x86\Debug\Game5.exe
+F:\Game5\Game5\obj\x86\Debug\Game5.pdb
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\obj\x86\Debug\Game5.exe
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\obj\x86\Debug\Game5.pdb
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\Content\SpritesheetMoving.xnb
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\Game5.exe
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\Game5.pdb
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Graded Unit 1\scrolling platform game (monogame version)\Game5\obj\x86\Debug\Game5.csprojResolveAssemblyReference.cache
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\obj\x86\Debug\Game5.exe
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\obj\x86\Debug\Game5.pdb
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\Content\SpritesheetMoving.xnb
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\Game5.exe
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\Game5.pdb
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Graded Unit 1\scrolling platform game (monogame)\Game5\obj\x86\Debug\Game5.csprojResolveAssemblyReference.cache
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\obj\x86\Debug\Game5.exe
+H:\Graded Unit 1\scrolling platform game (monogame)2\Game5\obj\x86\Debug\Game5.pdb
